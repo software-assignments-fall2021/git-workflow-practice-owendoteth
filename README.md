@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+[Cross-chain governance and open-sourcing the Aave UI](https://medium.com/aave/cross-chain-governance-and-open-sourcing-the-aave-ui-ad9dd632175d)
+
+The Aave lending protocol is open sourcing their frontend and creating an IPFS gateway for decentralized website hosting. Aaave also releases more information about the architechture of their cross-chain governance system. This article is interesting to me because it is beginning to solve the problem with cross chain composability of liquidity and improving the user exerpience of decentralized governance. With this protocol being open source, anyone can now fully join in building on top of or directly on Aave.
